@@ -1,0 +1,6 @@
+# Documents de travail privés (cahier des charges, maquette de référence)
+*.pdf
+reference.png
+
+# Cloudflare Wrangler
+.wrangler/
